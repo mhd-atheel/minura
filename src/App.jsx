@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       
-      <h1>Safa + Minura + <span className='atheel'>Atheel</span></h1>
+      <h1>Safa + Minura + <span className='atheel'>Cute Atheel</span></h1>
       
     </>
   )

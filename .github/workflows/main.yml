@@ -24,5 +24,4 @@ jobs:
       with:
         args: deploy
       env:
-        PROJECT_PATH: ./frontend
         FIREBASE_TOKEN: 1//0gGv0EnymtBIgCgYIARAAGBASNwF-L9IrAaGFDGCRcTz86VE1g7rPfNOc6UalGzne6OwAgkCtKPZxjhQXWEM6etr8jVT_bKGjS34
