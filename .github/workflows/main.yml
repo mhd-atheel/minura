@@ -3,10 +3,7 @@ name: Firebase Deploy
 on:
   push:
     branches: [ main ]
-    paths:
-      - 'frontend/**'
     
-
 
 jobs:
   build-deploy:
